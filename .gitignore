@@ -1,3 +1,6 @@
 .idea
 *.iml
 target
+/C#/CSharpFizzBuzz/CSharpFizzBuzz/obj
+/C#/CSharpFizzBuzz/.vs/CSharpFizzBuzz/FileContentIndex
+/C#/CSharpFizzBuzz/.vs/CSharpFizzBuzz/v17
